@@ -16,3 +16,11 @@ random variables
 - NOX: nitric oxide concentrations 
 - RM: average number of homes per dwelling
 - MEDV: median value of the owner-occupied homes in $1,000
+
+[Trading model of SPY](tradingmodel.ipynb)
+This file contains an analysis of a trading model of SPY using different indices. 
+It will look at different markets including the US, EU and Asian markets. 
+Considering that the markets open at different times, the predictors will be as follows:
+- US Markets = open - open last day
+- EU Markets = Open - open last day
+- Asian Markets and Australia = Close - Open 
