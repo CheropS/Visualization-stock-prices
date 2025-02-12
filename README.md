@@ -24,3 +24,6 @@ Considering that the markets open at different times, the predictors will be as 
 - US Markets = open - open last day
 - EU Markets = Open - open last day
 - Asian Markets and Australia = Close - Open 
+
+## Update
+Hasn't been updated in a while
